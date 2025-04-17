@@ -39,7 +39,7 @@ Time spent from start to finish ~3h
 ## Unanswered Questions
 
 1. **State Management Approach**
-   - I opted for **React Query + React Context** instead of Zustand.
+   - I opted for **React Query** instead of Zustand.
 2. **User/Admin Login**
    - How would you like to handle the user/admin switch? Separate login page or a toggle button on the UI?
 3. **Drag & Drop + Filtering**
