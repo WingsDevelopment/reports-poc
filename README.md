@@ -1,6 +1,6 @@
 ## Reports
 
-Srdjan Rakic - time spent ~3h
+Srdjan Rakic - time spent from start to finish ~3h
 
 ## Scope of Work
 
