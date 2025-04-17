@@ -15,7 +15,7 @@
 
 ### State Management
 
-- [x] React Query + React Context
+- [x] React Query
 
 ### Rich-Text Editor
 
