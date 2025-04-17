@@ -1,3 +1,7 @@
+## Reports
+
+Srdjan Rakic - time spent ~3h
+
 ## Scope of Work
 
 ### Core Features
