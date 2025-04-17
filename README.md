@@ -15,6 +15,7 @@ Time spent from start to finish ~3h
 - [x] Summarize Content button: AI summarizes existing report content
   - This adds text at the end
 - [x] Reorder reports manually using **dnd-kit** (drag & drop)
+      - this is not saved to the local storage like everything else!
 - [x] Responsive and accessible UI built with **Material UI**
 
 ### State Management
