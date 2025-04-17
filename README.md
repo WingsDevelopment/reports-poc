@@ -44,12 +44,6 @@
 
 ## Setup Instructions
 
-1. **Clone the repository**
-   ```bash
-   git clone <repo-url>
-   cd <project-folder>
-   ```
-
 Environment Variables
 
 Copy .env.example to .env
