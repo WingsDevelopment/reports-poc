@@ -34,7 +34,7 @@
 ## Unanswered Questions
 
 1. **State Management Approach**
-   - I opted for **React Query + React Context** instead of Zustand. Is this acceptable for the project?
+   - I opted for **React Query + React Context** instead of Zustand.
 2. **User/Admin Login**
    - How would you like to handle the user/admin switch? Separate login page or a toggle button on the UI?
 3. **Drag & Drop + Filtering**
