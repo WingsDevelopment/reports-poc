@@ -25,7 +25,7 @@
 
 - [x] OpenAI API
 
-## Bonus Features (Not Implemented)
+## Bonus Features
 
 - [ ] User roles: Admin (create/edit/delete) & Viewer (view-only)
 - [x] Activity tracking (e.g., created, edited, AI used)
