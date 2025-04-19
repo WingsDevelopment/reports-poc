@@ -1,6 +1,7 @@
 ## Reports
 
 Time spent from start to finish ~3h
+<br />
 Architecture and code structure choice is made to simplify transition from localstorage to real server.
 
 ## Scope of Work
